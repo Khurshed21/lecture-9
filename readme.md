@@ -67,3 +67,8 @@ async function f() {
 
 f();
 ```
+Asynchronous programming provides opportunities for a program to continue
+running other code while waiting for a long-running task to complete. The timeconsuming task is executed in the background while the rest of the code continues to
+execute.
+___
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcZ8w5EOesydLz3gJiZQmVr64bFYgww2G-3wO0HnbYJQ&s)
